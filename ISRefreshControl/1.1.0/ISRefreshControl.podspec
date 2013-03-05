@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "ISRefreshControl"
-  s.version      = "1.1.1"
+  s.version      = "1.1.0"
   s.platform     = :ios, '5.0'
   s.license      = {
 	:type => 'MIT',
@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   s.summary      = "iOS5-compatible UIRefreshControl."
   s.homepage     = "https://github.com/ishkawa/ISRefreshControl"
   s.author       = { "Yosuke Ishikawa" => "ishkawa73@gmail.com" }
-  s.source       = { :git => "https://github.com/ishkawa/ISRefreshControl.git", :tag => "1.1.1" }
+  s.source       = { :git => "https://github.com/ishkawa/ISRefreshControl.git", :tag => "1.1.0" }
   s.source_files = 'ISRefreshControl'
   s.resources    = 'ISRefreshControl/Images/*.png'
   s.framework  = 'QuartzCore'
